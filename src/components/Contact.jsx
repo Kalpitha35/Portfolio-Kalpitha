@@ -9,7 +9,7 @@ const Contact = () => {
     <div class="icon-collection">
         {/* <!-- linkedin --> */}
         <div class="icon">
-            <a target="_blank" href="www.linkedin.com/in/kalpitha-c-j"><i class="fa-brands fa-linkedin-in brands"></i></a>
+            <a target="_blank" href="https://www.linkedin.com/in/kalpitha-c-j/"><i class="fa-brands fa-linkedin-in brands"></i></a>
         </div>
         {/* <!-- github --> */}
         <div class="icon">
